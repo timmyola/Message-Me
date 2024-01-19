@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  MessageMe
 //
-//  Created by Nikunj Thakur on 2022-11-06.
 //
 
 
